@@ -1,6 +1,6 @@
 {
 
-  "name": "turbo-bot",
+  "name": "VIGGO-BOT",
 
   "version": "0.0.5",
   "description": "WhatsApp Bot Baileys",
@@ -10,7 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://youtube.com/c/turbontr1?sub_confirmatión=1.git"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
